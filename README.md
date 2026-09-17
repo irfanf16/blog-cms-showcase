@@ -20,12 +20,6 @@ Full-stack engineer
 **Rich media.** Image upload and transformation pipeline for post assets.
 
 
-## Screenshots
-
-<!-- ![Editor](docs/editor.png) -->
-<!-- ![Post List](docs/post-list.png) -->
-
-_Screenshots pending — see `docs/README.md`._
 
 ## Stack
 
