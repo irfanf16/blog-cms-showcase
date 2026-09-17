@@ -7,7 +7,7 @@ A publishing platform with taxonomy, editorial workflow and role-gated publishin
 > **Source code is private.** This repository documents the architecture and engineering work.
 
 ## My role
-Full-stack engineer — sole developer.
+Full-stack engineer
 
 ## Engineering highlights
 
